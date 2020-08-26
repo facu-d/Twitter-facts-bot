@@ -10,7 +10,7 @@ pip install schedule
 ```
 
 ## Setup 🔧
-You need to edit your _Twitter API keys_ on lines __XX__ and __XX__
+You need to edit your _Twitter API keys_ on lines __50__ and __51__
 ```
 auth = tweepy.OAuthHandler("XXXXXXXX", "XXXXXXXX")
 auth.set_access_token("XXXXXXXX", "XXXXXXXX")
